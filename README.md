@@ -1,6 +1,3 @@
-Absolutely! Here’s a **ready-to-copy, GitHub-friendly README** for your RAG PDF Chatbot repository:
-
----
 
 # RAG PDF Chatbot
 
@@ -93,8 +90,3 @@ public_url  # Click the URL to open the chatbot
 * [Hugging Face Sentence Transformers](https://www.sbert.net/)
 * [Groq LLM API](https://www.groq.com/)
 
----
-
-You can copy this **as-is** into your `README.md` in your GitHub repo.
-
-If you want, I can also make a **more visually appealing version with badges and code snippets** for GitHub to make it look very professional. Do you want me to do that?
